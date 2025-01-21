@@ -23,8 +23,7 @@ def controlKeyboard():
    # Types with the keyboard on the current line
     keyboard.type("Hello World!")
 
-# this code will type in the next lines of the file
+# this code will type in the lines of the file
 controlMouse()
 controlKeyboard()
-
 
