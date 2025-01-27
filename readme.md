@@ -1,6 +1,7 @@
 # Simple Keylogger
 
 This project is a simple keylogger that I built to enhance my cybersecurity studies.
+- the main.py file contains the keylogger code, the other files are just simple tutorials
 
 > **WARNING:** This software is intended for educational purposes only.
 
