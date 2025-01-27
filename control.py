@@ -26,4 +26,3 @@ def controlKeyboard():
 # this code will type in the lines of the file
 controlMouse()
 controlKeyboard()
-
